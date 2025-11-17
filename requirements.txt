@@ -1,0 +1,8 @@
+gymnasium
+shimmy>=2.0
+stable-baselines3[extra]
+sentence-transformers
+faiss-cpu
+torch
+numpy
+matplotlib
