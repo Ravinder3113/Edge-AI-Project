@@ -1,5 +1,5 @@
-# Edge-AI-Project
-RL + RAG Cyber Chatbot Demo
+
+## RL + RAG Cyber Chatbot Demo
 ----------------------------------
 This small project demonstrates a toy RL environment (simulator.py) representing a simple 'user awareness' state,
 a RAG retriever (rag_index.py) using sentence-transformers + faiss, a backend stub to load a PPO policy, and a training
