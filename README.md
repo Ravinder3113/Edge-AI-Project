@@ -63,7 +63,9 @@ Templates ensure structured, natural responses.
 ## Installation
 
 git clone https://github.com/Ravinder3113/On-Device-Chatbot-Response-Generation.git
+
 cd On-Device-Chatbot-Response-Generation
+
 pip install -r requirements.txt
 
 
