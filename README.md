@@ -1,4 +1,4 @@
-# On-Device Reinforcement Learning–Based Cybersecurity Conversational Assistant
+# On-Device Cybersecurity Conversational Assistant
 
 ## Overview
 This project implements an intelligent, adaptive cybersecurity conversational assistant powered by:
