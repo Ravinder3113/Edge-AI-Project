@@ -32,13 +32,11 @@ Seven high-level actions:
 ### On-Device Friendly
 Supports quantization and lightweight models suitable for Jetson or mobile deployment.
 
----
 
 ## System Architecture
 
 User → CyberEnv (State) → PPO Agent → Action → RAG Retrieval → Response Generator → User
 
----
 
 ## Methodology Summary
 
@@ -61,34 +59,23 @@ User → CyberEnv (State) → PPO Agent → Action → RAG Retrieval → Respons
 ### 4. Conversational Response Layer
 Templates ensure structured, natural responses.
 
----
-
 
 ## Installation
 
-```
 git clone https://github.com/Ravinder3113/On-Device-Chatbot-Response-Generation.git
 cd On-Device-Chatbot-Response-Generation
 pip install -r requirements.txt
-```
 
----
 
 ## Training the PPO Agent
 
-```
 python train_ppo.py
-```
 
----
 
 ## Running the Chatbot
 
-```
 Run project_demo.ipynb
-```
 
----
 
 ## Future Work
 
@@ -97,4 +84,3 @@ Run project_demo.ipynb
 - Add speech-based input/output
 - Deploy on NVIDIA Jetson or smartphones
 
----
