@@ -9,7 +9,6 @@ This project implements an intelligent, adaptive cybersecurity conversational as
 
 The assistant teaches cybersecurity best practices—phishing detection, safe browsing habits, OTP fraud prevention—through adaptive dialogue. Unlike rule-based chatbots, this system learns how to teach by modeling user behaviour and selecting optimal instructional strategies in real time.
 
----
 
 ## Key Features
 
